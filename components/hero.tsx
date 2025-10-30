@@ -16,7 +16,7 @@ export function Hero() {
 
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center pt-20">
-        <div className="animate-fade-in-up">
+        <div className="text-shadow-lg/30 animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 text-balance leading-tight">
             Train with Purpose.
             <br />

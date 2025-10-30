@@ -67,7 +67,7 @@ export function Header() {
 
           {/* CTA Button */}
           <div className="hidden lg:block">
-            <Button className="bg-red-600 hover:bg-red-700 text-white font-semibold">Free Trial Class</Button>
+            <Button className="bg-red-600 hover:bg-red-700 text-white font-semibold box-shadow-header">Free Trial Class</Button>
           </div>
 
           {/* Mobile Menu Button */}
